@@ -1,1 +1,3 @@
-print("Герасименко Георгий" )
+fullname  = input ("как вас зовут ?\t")
+
+print(fullname )
